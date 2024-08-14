@@ -20,8 +20,8 @@ function App() {
   //   []
   // );
   const awsCredentials = {
-    accessKeyId: "AKIAXHJHBN6H2IRO456G",
-    secretAccessKey: "Wh1kj9mDyJKkug8wR4wf30q7WxBmMhg1oGuX5MRY",
+    accessKeyId: "",
+    secretAccessKey: "",
 };
 const sceneId = 'CookieV2';  // This should be your actual scene ID
 
